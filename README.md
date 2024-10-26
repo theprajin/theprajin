@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a machine learning and deep learning practitioner and learner.
+I am a machine learning, deep learning practitioner, learner, and mobile app developer.
 
 - 🌱 I’m currently learning **NLP and LLM**
 - 📫 How to reach me: **prajinbajra@gmail.com**
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **NLP**.
+- ⚡ I can build mobile apps in **Flutter** for you.
