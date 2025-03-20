@@ -19,5 +19,5 @@ I am a machine learning, deep learning practitioner, learner, and mobile app dev
 - 🌱 I’m currently learning **NLP and LLM**
 - 📫 How to reach me: **prajinbajra@gmail.com**
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **NLP**.
-- I can build backend systems using **Python**, **Django/DRF**, and **FastAPI**
+- ⚡ I can build backend systems using **Python**, **Django/DRF**, and **FastAPI**
 - ⚡ I can build mobile apps in **Flutter** for you.
