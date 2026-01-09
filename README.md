@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 I am a machine learning, deep learning practitioner, learner, and mobile app developer.
 
-- 🌱 I’m currently learning **NLP and LLM**
+- 🌱 ***Generative AI and Agentic AI*
 - 📫 How to reach me: **prajinbajra@gmail.com**
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning**, **Deep Learning**, **Computer Vision**, and **NLP**.
 - ⚡ I can build backend systems using **Python**, **Django/DRF**, and **FastAPI**
